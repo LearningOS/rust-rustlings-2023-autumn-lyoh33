@@ -180,3 +180,5 @@ if you have ideas or suggestions!
 ## Contributors ✨
 
 Thanks goes to the wonderful people listed in [AUTHORS.md](./AUTHORS.md) 🎉
+
+完成所有练习后，执行 git add; git commit -m"update"; git push 命令，把更新提交到GithubClassroom的CI进行自动评测。要求小练习全部通过GithubClassroom的CI自动评测。
